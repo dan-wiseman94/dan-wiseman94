@@ -3,7 +3,9 @@
 Personal Website: https://danielwiseman.net
  
  📫 How to reach me: dan.wiseman94@gmail.com
+ 
   🌱 I’m currently learning Firebase
+  
   😄 Pronouns: He/Him
   
  New Grad Software Developer looking for development position. Proficient in Javascript, React, Python, Django
