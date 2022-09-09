@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+Personal Website: https://danielwiseman.net
+ 
+ 📫 How to reach me: dan.wiseman94@gmail.com
+ 
+ r
+ 
 <!--
 **dan-wiseman94/dan-wiseman94** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +20,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
