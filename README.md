@@ -4,7 +4,7 @@ Personal Website: https://danielwiseman.net
  
  📫 How to reach me: dan.wiseman94@gmail.com
  
-  🌱 I’m currently learning Firebase
+  🌱 I’m currently learning Firebase, Express, Azure
   
   😄 Pronouns: He/Him
   
