@@ -10,10 +10,10 @@
   
  New Grad Software Developer looking for development position. Proficient in Javascript, React, Python, Django
  
-* **Computer Languages:**  JavaScript, Python, C++, Java  
-* **Frameworks & APIs:** React, Django, HTML/CSS, Express, Nginx, Azure
+* **Computer Languages:** JavaScript, Python, HTML/CSS, C/C++, Java, Bash 
+* **Frameworks & APIs:** React, Django, Node.js, Express, Nginx, Azure 
 * **Databases:** MongoDB, PostgreSQL, Firebase 
-* **Tools**:   Vim, VS Code, Git
+* **Tools**:   Vim, VS Code, Git, Linux, Google Cloud Platform, Docker, Jest
 
 <!--
 **dan-wiseman94/dan-wiseman94** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
