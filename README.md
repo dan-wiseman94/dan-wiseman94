@@ -12,7 +12,7 @@
  
 * **Computer Languages:**  JavaScript, Python, C++, Java  
 * **Frameworks & APIs:** React, Django, HTML/CSS, Express, Nginx, Azure
-* **Databases: ** MongoDB, PostgreSQL, Firebase 
+* **Databases:** MongoDB, PostgreSQL, Firebase 
 * **Tools**:   Vim, VS Code, Git
 
 <!--
