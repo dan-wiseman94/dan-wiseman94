@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Personal Website: https://danielwiseman.net
+[Personal Website: https://danielwiseman.net](https://danielwiseman.net)
  
  📫 How to reach me: dan.wiseman94@gmail.com
  
@@ -10,7 +10,11 @@ Personal Website: https://danielwiseman.net
   
  New Grad Software Developer looking for development position. Proficient in Javascript, React, Python, Django
  
- 
+* **Computer Languages:**  JavaScript, Python, C++, Java  
+* **Frameworks & APIs:** React, Django, HTML/CSS, Express, Nginx, Azure
+* **Databases: ** MongoDB, PostgreSQL, Firebase 
+* **Tools**:   Vim, VS Code, Git
+
 <!--
 **dan-wiseman94/dan-wiseman94** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
