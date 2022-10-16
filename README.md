@@ -4,7 +4,7 @@
  
  📫 How to reach me: dan.wiseman94@gmail.com
  
-  🌱 I’m currently learning Firebase, Express, Azure
+  🌱 I’m currently learning Express & exploring CSS Frameworks
   
   😄 Pronouns: He/Him
   
