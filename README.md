@@ -1,12 +1,6 @@
 ### Hi there 👋
-
-[Personal Website: https://danielwiseman.net](https://danielwiseman.net)
  
  📫 How to reach me: dan.wiseman94@gmail.com
- 
-  🌱 I’m currently learning Express & exploring CSS Frameworks
-  
-  😄 Pronouns: He/Him
   
  New Grad Software Developer looking for development position. Proficient in Javascript, React, Python, Django
  
