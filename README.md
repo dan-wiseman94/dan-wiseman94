@@ -2,7 +2,7 @@
  
  📫 How to reach me: dan.wiseman94@gmail.com
   
- New Grad Software Developer looking for development position. Proficient in Javascript, React, Python, Django
+Web Developer for Acrevalue. Proficient in Javascript, React, Python, Django
  
 * **Computer Languages:** JavaScript, Python, HTML/CSS, C/C++, Java, Bash 
 * **Frameworks & APIs:** React, Django, Node.js, Express, Nginx, Azure 
