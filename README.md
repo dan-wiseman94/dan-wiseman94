@@ -16,14 +16,16 @@ Here are some ideas to get you started:
 -->
 
 
-# Hi, I'm Daniel 👋
+### Hi there 👋
 
 Full-stack software engineer in Nashville — Python/Django on the back, React/TypeScript
 on the front, Docker-to-AWS in between.
 
+📫 How to reach me: dan.wiseman94@gmail.com · [LinkedIn](https://www.linkedin.com/in/daniel-wiseman-5121ab215/)
+
 ## What I'm building
 
-**[AI Market Dashboard](https://github.com/dan-wiseman94/YOUR-REPO)** — a containerized,
+**[AI Market Dashboard]([https://github.com/dan-wiseman94/YOUR-REPO](https://github.com/dan-wiseman94/ai-market-dashboard))** — a containerized,
 six-service platform for AI-driven market analysis:
 
 - Provider-agnostic LLM layer streaming Anthropic, OpenAI, and local models through one
@@ -42,6 +44,7 @@ NASA GIS Earthdata ETL pipeline on AWS ECS/EKS.
 
 ## Stack
 
-Python · TypeScript · Django / DRF / Channels · React · PostgreSQL · Redis · Celery · Docker · Kubernetes · AWS · Playwright
-
-📫 dan.wiseman94@gmail.com · [LinkedIn](https://www.linkedin.com/in/daniel-wiseman-5121ab215/)
+**Languages:** Python, TypeScript, JavaScript, SQL, C
+**Frameworks:** Django / DRF / Channels, React, Node.js
+**Data & Infra:** PostgreSQL, MongoDB, Redis, Celery, Docker, Kubernetes, AWS
+**Testing:** pytest, vitest, Playwright
