@@ -25,7 +25,7 @@ on the front, Docker-to-AWS in between.
 
 ## What I'm building
 
-**[AI Market Dashboard]([https://github.com/dan-wiseman94/YOUR-REPO](https://github.com/dan-wiseman94/ai-market-dashboard))** — a containerized,
+**[AI Market Dashboard](https://github.com/dan-wiseman94/ai-market-dashboard)** — a containerized,
 six-service platform for AI-driven market analysis:
 
 - Provider-agnostic LLM layer streaming Anthropic, OpenAI, and local models through one
