@@ -18,24 +18,33 @@ Here are some ideas to get you started:
 
 ### Hi there 👋
 
-Full-stack software engineer in Nashville — Python/Django on the back, React/TypeScript
-on the front, Docker-to-AWS in between.
+Full-stack software developer in Nashville. I build React and TypeScript interfaces
+and Python backends, and I'm open to software development roles.
 
 📫 How to reach me: dan.wiseman94@gmail.com · [LinkedIn](https://www.linkedin.com/in/daniel-wiseman-5121ab215/)
 
-## What I'm building
+## Featured projects
 
-**[AI Market Dashboard](https://github.com/dan-wiseman94/ai-market-dashboard)** — a containerized,
-six-service platform for AI-driven market analysis:
+### Ledger
 
-- Provider-agnostic LLM layer streaming Anthropic, OpenAI, and local models through one
-  unified event interface, with per-model token budgets, cost aggregation, and spend caps
-- Real-time WebSocket token streaming with parallel multi-model comparison and mid-stream
-  cancellation that aborts upstream generation and billing
-- Celery-based "observer" scheduler with market-calendar awareness and a JSON condition
-  DSL for event triggers, validated with historical backtesting
-- Schwab OAuth2 market-data integration and a six-lane E2E suite (UI, API, WebSocket,
-  visual, accessibility, performance) wired into CI
+A locally run market research dashboard built with React, TypeScript, and Python/Django.
+
+- Built a shared streaming interface that lets users compare Claude, OpenAI, and local
+  models side by side while tracking usage and cost.
+- Built an evaluation workflow that replays saved market snapshots and scores model
+  forecasts against what happened afterward.
+
+[Repository](https://github.com/dan-wiseman94/ai-market-dashboard) · [Run locally with Docker](https://github.com/dan-wiseman94/ai-market-dashboard#quick-start)
+
+### BadShop
+
+A desktop photo editor for making deliberately bad cut-and-paste edits, with optional AI assistance.
+
+- Connected a React and TypeScript interface to a Python image engine through a Tauri
+  desktop shell. Manual and AI-assisted edits share a timeline users can revise and replay.
+- Published installers for Windows, macOS, and Linux.
+
+[Repository](https://github.com/dan-wiseman94/BadShop) · [Download BadShop](https://github.com/dan-wiseman94/BadShop/releases/latest)
 
 ## Before this
 
